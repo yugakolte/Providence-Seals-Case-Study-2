@@ -8,7 +8,7 @@ Created on Tue Nov 16 23:43:58 2021
 import csv, math
 import pandas as pd
 
-fileP = r"/Users/yuga/Documents/ISE 552/Case STudy 2/ProvidenceSealsData.csv"
+fileP = r"ProvidenceSealsData.csv"
 
 machines = ["100", "101", "103", "104", "105", "200", "201", "202", "203", "300", "302"]
 mNumbers = {"100":2, "101":2, "103":1, "104":2, "105":2, "200":1, "201":1, "202":1, "203":1, "300":1, "302":1}
