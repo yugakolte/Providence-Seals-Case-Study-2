@@ -2,7 +2,7 @@
 #### By Shyam Gadhwala, Yugandhara Kolte, Vinaya Salunkhe
 
 ## About this repository:
-This repository contains a code written by Shyam Gadhwala (@author : sbgadhwa) to do all the calculations of the required analysis for Case Study 2 : Providence Seal Co., submitted as a coursework for ISE 552- Design and Control of Production Systems.
+This repository contains a code written by Shyam Gadhwala (@author : sbgadhwa) to do all the calculations of the required analysis for Case Study 2 : Providence Seal Co., submitted as a coursework for ISE 552- Design and Control of Production Systems. This is for Prof. Reha Uzsay's reference.
 
 ### Case Study 2 analysis.py
 This is the main Python file, in which the code used to do the analysis is listed. 
